@@ -142,10 +142,10 @@ For major changes, please open an issue first to discuss what you would like to 
 
 If you use this dataset in your research, please cite:
 ```bibtex
-@misc{drugformdb2024,
+@misc{drugformdb2025,
   title={DrugFormDB: A Dataset for Medication Form Classification},
   author={Ahmad Rufai Yusuf},
-  year={2024},
+  year={2025},
   publisher={Hugging Face},
   howpublished={\url{https://huggingface.co/datasets/ahruf/DrugFormDB}}
 }
