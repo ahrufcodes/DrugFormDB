@@ -175,4 +175,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For more detailed information about the project:
 - [Technical Documentation](docs/technical_documentation.md)
 - [Validation Process](docs/validation_process_explained.md)
-- [Blog Post](https://ahruf.substack.com) about the development process 
+- [Blog Post](https://open.substack.com/pub/ahruf/p/drugformdb-a-gpt-4-and-pubmedbert?r=yjpai&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) about the development process
