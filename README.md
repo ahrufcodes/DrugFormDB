@@ -6,7 +6,7 @@
 
 ## 📖 Introduction
 
-DrugFormDB is a pioneering that works by combining the reasoning capabilities of GPT-4 with the domain-specific knowledge of PubMedBERT.
+DrugFormDB is a pioneering project developed for [Marmar](https://marmar.life), an AI powered medication management platform.
 
 We've created a robust and reliable classification system for pharmaceutical forms.
 
@@ -86,7 +86,7 @@ Each record contains:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Marmar-org/DrugFormDB.git
+git clone https://github.com/ahrufcodes/DrugFormDB.git
 cd DrugFormDB
 ```
 
@@ -164,6 +164,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
+- [Marmar](https://marmar.life) - The medication management platform I am building that inspired this project
 - OpenAI's GPT-4 team for their powerful language model
 - Microsoft Research for PubMedBERT
 - The open-source medical informatics community
